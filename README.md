@@ -1,4 +1,4 @@
-## `Demo idea-case-app`
+# Demo idea-case-app
 ***Main page animation***<br />
 <a href="https://gyazo.com/e1424eca6688a6fff380a1a9614de5df"><img src="https://i.gyazo.com/e1424eca6688a6fff380a1a9614de5df.gif" alt="Image from Gyazo" width="512"/></a>
 
